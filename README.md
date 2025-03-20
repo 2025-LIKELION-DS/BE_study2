@@ -18,4 +18,4 @@ https://inpa.tistory.com/entry/GIT-%E2%9A%A1%EF%B8%8F-Gitmoji-%EC%82%AC%EC%9A%A9
 | 🚀 `Deploy` | 배포 관련 변경사항 |
 | 💻 `CrossBrowsing` | 브라우저 호환성 관련 변경 |
 
-ex) ✨ Feature: login, 🔨 Refactor: 00 수정
+ex) ✨ Feature: login 기능 구현, 🔨 Refactor: 00 수정
