@@ -5,3 +5,5 @@ def minus(a, b):
 def add(a,b):
     return a+b
 
+def sksnrl(a, b):
+    return a / b
